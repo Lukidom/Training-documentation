@@ -1,4 +1,4 @@
-# Guide to collectors Edition 
+# 85 Collectors Guide
 
 --------------------------
 
@@ -8,17 +8,37 @@
 
 * If an element is not listed then it is not included in the collectors edition periodic table. 
 
-* Use CTR-F to find Element the element you are looking for. 
-
-```
-- Notes to self 
-
-- pladium, plateninum, Gold
-Need to fill these out
-
-```
+* Use CTRL-F to find Element you need. 
 
 
+## 83 Collectors
+
+
+
+### List of elements that are in resin instead of ampules
+
+These elements will be incased in resin and will but cut up into appropriate sized pieces and counted. 
+
+* Hydrogen,
+Oxygen,
+Nitrogen,
+
+
+* Fluorine,
+Neon,
+Argon,
+
+
+* Chlorine,
+Krypton,
+Xenon,
+Iodine,
+
+
+* Cesium,
+Barium,
+Europium,
+Praseodymium,
 
 
 ## Elements
@@ -454,11 +474,25 @@ Metal
 *Ampule*
 
 
-- Mix powder pellets with mineral oil. Compare to previously made ampules or ask someone to check for you. The ampule needs to be dark enough. 
+- Mix powder with water in a glass container. Allow the powder to sit in the water stirring it around when needed. The color of the Bromine in the ampule needs to be a dark red color. You shouldn't be able to see through it. 
+
+- fill a small glass bottle with the finished bromine. 
 
 - Wear a respirator
 
+- Fill up syringe with Bromine about an inch.
 
+- fill up the aluminum block with ampules. 
+
+- Stick the needle all the way in and slowly pull it up while letting out the bromine until there is a little space left at the top. There needs to be enough room to seal the ampule.
+
+
+- If there is a tiny pinhole in the ampule after you seal it then the torch needs to have been held on the tube longer. If you hear a tiny pop while are are sealing an ampule, then that most likely means that the torch ws held a little too long on the end and there is now a tiny hole in it. try to keep your seals from ballooning. 
+
+- To fix any of these issues, just go over the end of the ampule again to reseal it. 
+
+
+                     
 
 **36.** **Krypton**
 
@@ -630,14 +664,28 @@ Niobium Crystals or sheet metal
 
 **53. iodine**
 
-- mix pellets
-
-- respirator ppe
-
-- syringe
 
 
 *Ampule*
+
+
+- Mix pellets with water(oil?) in a glass container. Allow the  the pellets to sit. stir them around when needed. The color of the iodine in the ampule needs to be a dark red color. You shouldn't be able to see through it. 
+- fill a small glass bottle with the finished iodine. 
+- Wear a respirator
+
+
+- Fill up syringe with iodine about an inch.
+
+- fill up the aluminum block with ampules. 
+
+- Stick the needle all the way in to each ampule and slowly pull it up while letting out the iodine until there is a little space left at the top. There needs to be enough room to seal the ampule.
+
+
+- If there is a tiny pinhole in the ampule after you seal it then the torch needs to have been held on the tube longer. If you hear a tiny pop while are are sealing an ampule, then that most likely means that the torch ws held a little too long on the end and there is now a tiny hole in it. try to keep your seals from ballooning. 
+
+- To fix any of these issues, just go over the end of the ampule again to reseal it. 
+
+
 
 
 **54. Xenon**
