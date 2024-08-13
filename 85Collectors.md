@@ -207,7 +207,7 @@ were opened.
 
 - If you get sodium Or oil that has come in contact with sodium on your skin, wash with warm soap and water:
 - Cut a chunk of sodium so that it is about 5mm thick and lay it on a small block of aluminum.
-- Push an ampule down into the piece of sodium to put a core of sodium into the ampule and place it in the aluminum block. Repeat this until you have done about 10 ampules
+- Push an ampule down into the piece of sodium to put a core of sodium into the ampule and place it in the aluminum block. Repeat this until you have done about 10 ampules (If you are new only do 3)
 - Once there are holes over the entire piece of sodium just squish it back together. After doing this a few times you may notice that a high percentage of the ampules will catch
 on fire or fail when you are trying to seal them. When you get to this point discard the piece of sodium in a safe way. 
 -Do not put it in the trash because it will catch on fire and
